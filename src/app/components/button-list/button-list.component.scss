@@ -1,0 +1,21 @@
+.box {
+    background: #fff;
+    width: 100%;
+    overflow: hidden;
+    .btnBox {
+        width: 25%;
+        float: left;
+        padding: 10px 0;
+        display: flex;
+        font-size: 14px;
+        flex-flow: column;
+        align-items: center;
+        .iconbox {
+            width: 30px;
+            height: 30px;
+        }
+        .text {
+            padding: 4px 0;
+        }
+    }
+}

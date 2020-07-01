@@ -1,0 +1,41 @@
+.card-info{
+    padding:10px 10px;
+    .card{
+        background: #cb6e4f;
+        height: 150px;
+        color:#fff;
+        font-size: 12px;
+        padding:14px 18px;
+        border-radius: 10px;
+      }
+      .month{
+        font-size:16px;
+        font-weight: 600;
+      }
+      .money{
+        display: flex;
+        padding-top: 16px;
+        .money-title{
+            float: right;
+        }
+      }
+      .money-right{
+          float:right;
+          font-size:14px;
+      }
+      .pay{
+        flex:1;
+        display: flex;
+        flex-flow: column;
+      }
+      .num{
+        font-size: 18px;
+        padding-top: 14x;
+        font-weight: 600;
+      }
+      .more{
+        padding-top: 10px;
+      }
+      
+  }
+  
